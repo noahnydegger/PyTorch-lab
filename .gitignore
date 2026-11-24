@@ -1,0 +1,10 @@
+# Local Python environment and bytecode
+/.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter autosave checkpoints
+.ipynb_checkpoints/
+
+# macOS Finder metadata
+.DS_Store
